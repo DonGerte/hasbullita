@@ -1,0 +1,5 @@
+aiogram
+sqlalchemy
+python-dotenv
+pytest
+pytest-asyncio
