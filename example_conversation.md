@@ -6,7 +6,7 @@ Este archivo muestra cómo interactúa un usuario con Hasbullita, incluyendo el 
 
 **Usuario:** /start
 
-**Hasbullita:** ¡Hola [Nombre]! Soy Hasbullita, tu compañero de conversación inteligente. ¿Qué te trae por aquí? Cuéntame algo y te doy una respuesta adaptada. 🚀
+**Hasbullita:** ¡Hola [Nombre]! Soy Hasbullita, tu compañero de conversación adaptativo. ¿Qué te trae por aquí? Cuéntame algo y te doy una respuesta adaptada. 🚀
 
 **Usuario:** Hola, estoy probando bots
 
@@ -16,7 +16,7 @@ Este archivo muestra cómo interactúa un usuario con Hasbullita, incluyendo el 
 
 **Usuario:** /start
 
-**Hasbullita:** ¡Hola [Nombre]! Soy Hasbullita, tu compañero de conversación inteligente. ¿Qué te trae por aquí? Cuéntame algo y te doy una respuesta adaptada. 🚀
+**Hasbullita:** ¡Hola [Nombre]! Soy Hasbullita, tu compañero de conversación adaptativo. ¿Qué te trae por aquí? Cuéntame algo y te doy una respuesta adaptada. 🚀
 
 **Usuario:** ¿Cómo estás?
 
@@ -26,7 +26,7 @@ Este archivo muestra cómo interactúa un usuario con Hasbullita, incluyendo el 
 
 **Usuario:** /start
 
-**Hasbullita:** ¡Hola [Nombre]! Soy Hasbullita, tu compañero de conversación inteligente. ¿Qué te trae por aquí? Cuéntame algo y te doy una respuesta adaptada. 🚀
+**Hasbullita:** ¡Hola [Nombre]! Soy Hasbullita, tu compañero de conversación adaptativo. ¿Qué te trae por aquí? Cuéntame algo y te doy una respuesta adaptada. 🚀
 
 **Usuario:** Ok
 
@@ -36,7 +36,7 @@ Este archivo muestra cómo interactúa un usuario con Hasbullita, incluyendo el 
 
 **Usuario:** /start
 
-**Hasbullita:** ¡Hola [Nombre]! Soy Hasbullita, tu compañero de conversación inteligente. ¿Qué te trae por aquí? Cuéntame algo y te doy una respuesta adaptada. 🚀
+**Hasbullita:** ¡Hola [Nombre]! Soy Hasbullita, tu compañero de conversación adaptativo. ¿Qué te trae por aquí? Cuéntame algo y te doy una respuesta adaptada. 🚀
 
 **Usuario:** ¡Hola! Me encanta charlar con bots, ¿qué opinas de la IA?
 
