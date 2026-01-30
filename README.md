@@ -25,8 +25,8 @@ Hasbullita es un bot de Telegram que responde de manera adaptativa basada en el 
 
 1. Clona el repo
 2. Copia `.env.example` a `.env` y configura `TELEGRAM_BOT_TOKEN`
-3. Instala dependencias: `pip install -r requirements.txt`
-4. Corre: `python app/main.py`
+3. Ejecuta `run.bat` (Windows) o `python app/main.py` manualmente
+4. Instala dependencias si no están: `pip install -r requirements.txt`
 
 ## Métricas que mide
 
