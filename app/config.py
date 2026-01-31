@@ -1,13 +1,22 @@
 from pydantic_settings import BaseSettings
 
+
 class Settings(BaseSettings):
-    database_url: str = "sqlite:///./test.db"
-    redis_url: str = "redis://localhost:6379"
-    core_secret: str = "test_secret"
-    telegram_admin_bot_token: str = "test_token"
-    telegram_whisper_bot_token: str = "test_token"
-    telegram_music_bot_token: str = "test_token"
-    
+    telegram_bot_token: str
+    database_url: str = "sqlite:///./hasbullita.db"
+    enable_profiling: bool = True
+    enable_extended_logging: bool = False
+
+    # External API keys
+    openweather_api_key: str = ""
+    newsapi_key: str = ""
+
+    # Optional APIs for future features
+    spotify_client_id: str = ""
+    spotify_client_secret: str = ""
+    youtube_api_key: str = ""
+    google_calendar_api_key: str = ""
+
     # BPS configurable thresholds
     bps_warning_threshold: int = 5
     bps_ban_threshold: int = 10
@@ -17,5 +26,6 @@ class Settings(BaseSettings):
 
     class Config:
         env_file = ".env"
+
 
 settings = Settings()
